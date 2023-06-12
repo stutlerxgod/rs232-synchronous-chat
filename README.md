@@ -2,21 +2,21 @@
 Chat application with synchronous communication via [Recommended Standard 232](https://en.wikipedia.org/wiki/RS-232).
 
 ## Project files:
-- <code>'rs232.c'</code> contains functions for:
+- <code>'rs232.c'</code> contains functions for
 	- rs232_open
 	- rs232_close
 	- rs232_read
 	- rs232_write 
 
-- <code>'rs232.h'</code> contains:
+- <code>'rs232.h'</code> contains
 	- structure rs232_obj
 	- declaration of rs232 functions
 
-- <code>'232chat.c'</code> contains:
+- <code>'232chat.c'</code> contains
 	- ReadThread func 
-		> сonstantly waiting and reading a message from another user 
+		> Constantly waiting and reading a message from another user 
   	- main
-  	 	> select COm port, user name, laucnh ReadThread func, reading a user message and sending it.
+  	 	> Select COM port, user name, laucnh ReadThread func, reading a user message and sending it.
 
 ## Overview
 Connect 2 computers via rs232 and run the code on each computer.
