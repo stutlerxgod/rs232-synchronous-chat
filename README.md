@@ -16,8 +16,7 @@ Chat application with synchronous communication via [Recommended Standard 232](h
 	- ReadThread func 
 		> сonstantly waiting and reading a message from another user 
   	- main
-  	 	> a
-      		> select COm port, user name, laucnh ReadThread func, reading a user message and sending it.
+  	 	> select COm port, user name, laucnh ReadThread func, reading a user message and sending it.
 
 ## Overview
 Connect 2 computers via rs232 and run the code on each computer.
