@@ -18,7 +18,7 @@ Chat application with synchronous communication via [Recommended Standard 232](h
   	- main
   	 	> Select COM port, user name, laucnh ReadThread func, reading a user message and sending it.
 
-## Overview
+## Installation
 Connect 2 computers via rs232 and run the code on each computer.
 <br>Find the COM port to which each computer is connected and enter it into the program.
 <br>Specify your nicknames and enjoy chatting.
