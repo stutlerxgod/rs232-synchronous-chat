@@ -23,9 +23,9 @@ Actions: move south, move north, move east, move west, pick up a passenger, drop
 
 - <code>'232chat.c'</code> contains:
 	- ReadThread func 
-	    -that сonstantly waiting and reading a message from another user 
-  - main
-      -that daw
+		> that сonstantly waiting and reading a message from another user 
+  	- main
+      		>that daw
 
 ## Overview
 
